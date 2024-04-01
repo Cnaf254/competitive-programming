@@ -1,1 +1,1 @@
-# This repository contains solutions to competitive programming problems I have solved on LeetCode. The solutions are written in Python.
+### This repository contains solutions to competitive programming problems I have solved on LeetCode. The solutions are written in Python.
