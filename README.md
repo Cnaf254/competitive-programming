@@ -1,1 +1,1 @@
-# abebe
+# This repository contains solutions to competitive programming problems I have solved on LeetCode. The solutions are written in Python.
